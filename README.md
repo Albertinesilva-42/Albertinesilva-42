@@ -14,18 +14,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Albert+Silva+de+Jesus;I'm+43+years+old;I+am+from+Brasil,+BA;I+study+analysis+and+systems+development+at+IFBA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Albertinesilva">
-  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Albertinesilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"         
+  <a href="https://github.com/Albertinesilva-42">
+  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Albertinesilva-42&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"         
     alt="Albert Silva de Jesus github stats" /> 
-  <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva-42&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
   </a>
-  <!-- <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=7&theme=dracula"/> -->
+  <!-- <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva-42&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albertinesilva&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albertinesilva-42&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva-42&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
 </p>
 
 ### Main skills:
@@ -70,7 +70,7 @@
 
 <!-- <img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg"> -->
 
-![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
+![Albertinesilva-42's github activity graph](https://raw.githubusercontent.com/Albertinesilva-42/Albertinesilva-42/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -82,11 +82,11 @@
 
 <!-- dark snake -->
 
-![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
+![Albertinesilva-42's github activity graph](https://raw.githubusercontent.com/Albertinesilva-42/Albertinesilva-42/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-<img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
+<img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva-42/Albertinesilva-42/output/pacman-contribution-graph-dark.svg">
 
 ---
 
@@ -133,7 +133,7 @@
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva-42}/count.svg" /></p> 
 </div>
 
 <!--
